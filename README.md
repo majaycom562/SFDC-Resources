@@ -1,1 +1,1 @@
-# SFDC-Resources
+# Resources
